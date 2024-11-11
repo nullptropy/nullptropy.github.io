@@ -1,0 +1,71 @@
+[[project]]
+name = "byte"
+desc = "A fantasy console running on the 6502 microprocessor with an emulator, assembler, debugging tools, and a code editor for programming."
+tags = []
+links = [
+    {name = "nullptropy/byte", url = "https://github.com/nullptropy/byte"},
+]
+
+[[project]]
+name = "pox"
+desc = "A complete rewrite of the lox programming language interpreter in Python, featuring extensions to the original language."
+tags = []
+links = [
+    {name = "nullptropy/pox", url = "https://github.com/nullptropy/pox"},
+]
+
+# [[project]]
+# name = "mmproxy-rs"
+# desc = "A Rust port of the mmproxy project, providing a robust TCP/UDP proxy that preserves client IPs behind load balancers."
+# tags = []
+# links = [
+#     {name = "saiko-tech/mmproxy-rs", url = "https://github.com/saiko-tech/mmproxy-rs"},
+# ]
+
+[[project]]
+name = "SLMP"
+desc = "A client library implementing a subset of the SLMP protocol for interacting with Mitsubishi PLCs."
+tags = []
+links = [
+    {name = "nullptropy/SLMP", url = "https://github.com/nullptropy/SLMP"},
+]
+
+[[project]]
+name = "raytracer"
+desc = "A raytracer implementation featuring a BMP encoder and a simple linear algebra library for vector math."
+tags = []
+links = [
+    {name = "nullptropy/raytracer", url = "https://github.com/nullptropy/raytracer"},
+]
+
+[[project]]
+name = "arche"
+desc = "State management for Pygame."
+tags = []
+links = [
+    {name = "nullptropy/arche", url = "https://github.com/nullptropy/arche"},
+]
+
+[[project]]
+name = "brainfuck"
+desc = "An optimizing brainfuck interpreter and REPL."
+tags = []
+links = [
+    {name = "nullptropy/brainfuck", url = "https://github.com/nullptropy/brainfuck"},
+]
+
+# [[project]]
+# name = "memory-rs"
+# desc = "Cross platform memory manipulation crate."
+# tags = []
+# links = [
+#     {name = "nullptropy/memory-rs", url = "https://github.com/nullptropy/memory-rs"},
+# ]
+
+# [[project]]
+# name = "async-fred-session"
+# desc = "Redis backed session store for async-session using fred.rs."
+# tags = []
+# links = [
+#     {name = "nullptropy/async-fred-session", url = "https://github.com/nullptropy/async-fred-session"},
+# ]
